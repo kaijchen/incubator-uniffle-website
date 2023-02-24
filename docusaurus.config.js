@@ -77,7 +77,7 @@ const config = {
                 title: 'Apache Uniffle (Incubating)',
                 logo: {
                     alt: 'Apache Uniffle (Incubating)',
-                    src: 'img/uniffle-logo.png',
+                    src: 'img/uniffle-logo-draft.svg',
                 },
                 items: [
                     {type: 'doc', docId: 'intro', position: 'right', label: 'Docs'},
